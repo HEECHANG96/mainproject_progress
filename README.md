@@ -17,3 +17,9 @@
  - CSS
   - [ ] box-shadow
     - [예시와 적용된 모습이 잘 나와있음](https://blog.logrocket.com/three-ways-style-css-box-shadow-effects/)
+  - [ ] 투명도
+    - [opacity](https://codingbroker.tistory.com/58)
+---
+  - Git
+   - [ ] commit
+     - [push하지 않은 commit 확인](https://blog.outsider.ne.kr/820)  
