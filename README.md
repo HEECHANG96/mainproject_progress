@@ -12,7 +12,8 @@
    - https://github.com/MomenSherif/react-oauth#googlelogin
    - https://react-oauth.vercel.app/
    - [간단한 구현 및 설명](https://stack94.tistory.com/entry/React-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EA%B7%B8%EC%9D%B8Google-Login-%EB%A6%AC%EC%95%A1%ED%8A%B8React%EC%97%90%EC%84%9C-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EC%9E%90)
-   - clientId를 .env 파일에서 가져오지를 못함 => 해결 중
+   - clientId를 .env 파일에서 가져오지를 못함 => 해결 O => npm install dotenv => REACT_APP_GOOGLE_CLIENT_ID=0000000000 => const clientId: string | undefined = process.env.REACT_APP_GOOGLE_CLIENT_ID;
+ - [ ] [CSS 참고 영상](https://www.youtube.com/watch?v=dWfpp-0riYA) 
 ---
  - CSS
   - [ ] box-shadow
