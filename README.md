@@ -22,4 +22,6 @@
 ---
   - Git
    - [ ] commit
-     - [push하지 않은 commit 확인](https://blog.outsider.ne.kr/820)  
+     - [push하지 않은 commit 확인](https://blog.outsider.ne.kr/820)
+     - [commit 취소](https://velog.io/@falling_star3/GitHub-git-add-git-commit-git-push-%EC%B7%A8%EC%86%8C%EB%B3%80%EA%B2%BD%EB%8D%AE%EC%96%B4%EC%93%B0%EA%B8%B0)
+     - git reset HEAD^(가장 최신 커밋 1개 취소)
