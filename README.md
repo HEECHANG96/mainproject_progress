@@ -29,3 +29,10 @@
    - [ ] git log
      - git log 나가는 방법 q 한번 누르면 나가진다.
      - git log --oneline : 로그를 한줄로 그래프 형식으로 보여준다.
+---
+  - SignUp Form
+   - [ ] error message
+     - 원래는 유효성 검사를 통해 일치하지 않으면 에러 메시지를 보여주며 SignUp Form UI 크기가 커졌음.
+     - 에러 메시지 공간을 미리 확보해두고 SignUp Form UI 크기는 고정되게 수정
+       ![회원가입수정](https://github.com/HEECHANG96/mainproject_progress/assets/70733630/b137c9a2-adde-4e8d-be03-ba78fa67a532)
+
