@@ -38,3 +38,6 @@
 ---
   - React Query
    - [ ]  https://tech.kakaopay.com/post/react-query-1/
+---
+  - 개발자 테스트 체크리스트
+   - [ ] [ngrok CORS](https://velog.io/@jy3026/ngrok-CORS-%ED%95%B4%EA%B2%B02) 
