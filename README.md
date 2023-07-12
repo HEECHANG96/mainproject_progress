@@ -4,6 +4,7 @@
  - [ ] [Figma 링크](https://www.figma.com/file/Hals1rmN2TKl0AMwazbSSc/SEB_%EB%A9%94%EC%9D%B8%ED%94%8C%EC%A0%9D?type=design&node-id=0-1&mode=design&t=L3CFX8joEtamLaRg-0)
  - [ ] [member API 명세서](https://documenter.getpostman.com/view/21648949/2s93zGyxam)
  - [ ] [jwt.io](https://jwt.io/)
+ - [ ] [액세스토큰 재발급](https://velog.io/@solchan/%EB%B0%B1%EC%97%85-Refresh-Token-%EB%B0%9C%EA%B8%89%EA%B3%BC-Access-Token-%EC%9E%AC%EB%B0%9C%EA%B8%89)
 ---
 - Login Form
  - [ ] React.ChangeEvent<HTMLInputElement>
