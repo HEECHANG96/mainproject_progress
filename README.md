@@ -42,4 +42,7 @@
    - [ ]  https://tech.kakaopay.com/post/react-query-1/
 ---
   - 개발자 테스트 체크리스트
-   - [ ] [ngrok CORS](https://velog.io/@jy3026/ngrok-CORS-%ED%95%B4%EA%B2%B02) 
+   - [ ] [ngrok CORS](https://velog.io/@jy3026/ngrok-CORS-%ED%95%B4%EA%B2%B02)
+---
+  - 모킹
+   - [ ] [msw 라이브러리](https://han-py.tistory.com/400) 
